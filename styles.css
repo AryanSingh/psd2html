@@ -9,7 +9,7 @@ body {
   background-size: cover;
   background-repeat: 50% 50%;
   background-repeat: none;
-  color: blue;
+  color: red;
   border: 1px solid transparent;
   text-align: right; }
   #land .vcenter {
@@ -18,8 +18,8 @@ body {
     top: 50%;
     transform: translateY(-50%); }
   #land .vcenter a, #land .vcenter a:hover {
-    background-color: 8724CD;
-    color: red;
+    background-color: red;
+    color: green;
     text-decoration: none; }
 
 /*# sourceMappingURL=styles.css.map */
