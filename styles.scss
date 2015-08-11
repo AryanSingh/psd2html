@@ -10,7 +10,7 @@ body{
   background-size: cover;
   background-repeat: 50% 50%;
   background-repeat: none;
-  color:blue;
+  color: yellow;
   border:1px solid transparent;
   text-align: right;
 
@@ -22,7 +22,7 @@ body{
   }
   .vcenter a{
     &, &:hover{
-      background-color:8724CD; 
+      background-color:#8724CD; 
       color:red;
       text-decoration: none;
     }
