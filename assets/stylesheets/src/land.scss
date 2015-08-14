@@ -7,16 +7,26 @@
   background-size: cover;
   background-repeat: 50% 50%;
   background-repeat: none;
-  color: red;
+  color: blue;
   border:1px solid transparent;
   text-align: right;
 
   a{ 
+    font-size: 1em;
+    padding: 1em 3em;
+    border-radius: 1.5em;
+    font-weight: normal;
+    margin: 1em 0; 
+    display: inline-block;
+
     &, &:hover{
-      background-color:red; 
-      color:green;
+      background-color:blue; 
+      color:red;
       text-decoration: none;
     }
+  }
+  .meta-info{
+    font-size:1em;
   }
 }
 
