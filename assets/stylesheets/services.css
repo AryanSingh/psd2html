@@ -1,0 +1,27 @@
+#services {
+  background-image: url("../images/Services.jpg");
+  background-size: cover;
+  height: 80vh;
+  background-position: 100% 40%;
+  color: #FFFFFF;
+  position: relative; }
+  #services .service_container {
+    position: absolute;
+    bottom: 2em;
+    left: 3em; }
+  #services .tag {
+    border: 1px solid #FFFFFF;
+    height: 2em;
+    line-height: 2em;
+    padding: 0 2.5em;
+    border-radius: 1em;
+    display: inline-block; }
+  #services .author {
+    line-height: 2em; }
+    #services .author img {
+      height: 2em;
+      width: 2em;
+      margin-right: 1em;
+      border-radius: 1em; }
+
+/*# sourceMappingURL=services.css.map */
