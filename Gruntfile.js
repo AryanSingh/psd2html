@@ -7,7 +7,8 @@ module.exports = function(grunt){
           'assets/stylesheets/land.css': 'assets/stylesheets/src/land.scss',
           'assets/stylesheets/about.css': 'assets/stylesheets/src/about.scss',
           'assets/stylesheets/how_it_works.css':'assets/stylesheets/src/how_it_works.scss',
-          'assets/stylesheets/services.css' : 'assets/stylesheets/src/services.scss'    
+          'assets/stylesheets/services.css' : 'assets/stylesheets/src/services.scss',
+          'assets/stylesheets/contact.css' : 'assets/stylesheets/src/contact.scss'     
         }
       }
     },
@@ -34,7 +35,8 @@ module.exports = function(grunt){
           'assets/stylesheets/land.css',
           'assets/stylesheets/about.css',
           'assets/stylesheets/how_it_works.css',
-          'assets/stylesheets/services.css'
+          'assets/stylesheets/services.css',
+          'assets/stylesheets/contact.css' 
           ]
         }
       }

@@ -1,11 +1,12 @@
-#how_it_works .img-container {
-  padding: 0; }
-#how_it_works h3 {
+#how_it_works .img-container, #faq .img-container {
+  padding: 0;
+  margin-right: 0; }
+#how_it_works h3, #faq h3 {
   font-size: 1.1em;
   font-weight: bold;
   text-transform: uppercase;
   margin-top: 3em; }
-#how_it_works p.excerpt {
+#how_it_works p.excerpt, #faq p.excerpt {
   font-size: 1.1em;
   margin: 2em 0; }
 
